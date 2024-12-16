@@ -7,7 +7,7 @@ win = Tk()
 win.title('MP3 Player')
 text= Label(win, text="MP3 PLAYER\nHello nice to see you again",font=('Gotham Rounded Medium', 20,))
 text.pack(pady=30)
-win.geometry("750x250")
+win.geometry("250x150")
 
 win.attributes('-fullscreen',True)
 
