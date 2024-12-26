@@ -6,7 +6,7 @@ import os
 win = Tk()
 win.title('MP3 Player')
 text= Label(win, text="MP3 PLAYER\nHello nice to see you again",font=('Gotham Rounded Medium', 20,))
-#you need to install the font into your computer so this code above can work
+#you need to install the font into your computer in order this code above can work
 
 text.pack(pady=30)
 win.geometry("250x150")
